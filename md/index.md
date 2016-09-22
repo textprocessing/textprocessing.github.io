@@ -1,3 +1,19 @@
+---
+title: 文本数据管理与分析
+description: 《文本数据管理与分析》课程网站
+date: 2016-09-22
+categories:
+- 文本处理
+- 自然语言处理
+- 文本挖掘
+tags:
+- 文本处理
+- 自然语言处理
+- 文本挖掘
+- 机器学习
+published: true
+---
+
 # 文本数据管理与分析
 教师：[邱锡鹏](http://weibo.com/xpqiu)
 
@@ -37,3 +53,5 @@
 
 
 ##致谢
+
+本页面由[Typora](http://www.typora.io/)编辑。
