@@ -30,7 +30,7 @@ published: true
 ##内容
 
 1. 简介 [slides](ch1.pdf) 
-2. 正则表达式 [slides](ch2.pdf) 
+2. 正则表达式 [slides](ch2.pdf) [slides](ch2-java.pdf)
 
 
 
