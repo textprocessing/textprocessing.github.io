@@ -15,7 +15,7 @@ published: true
 ---
 
 # 文本数据管理与分析
-教师：[邱锡鹏](http://weibo.com/xpqiu)
+教师：[邱锡鹏](http://nlp.fudan.edu.cn/xpqiu)  微博：[@邱锡鹏](http://weibo.com/xpqiu)
 
 助教：施展、龚经经
 
@@ -29,8 +29,16 @@ published: true
 
 ##内容
 
-1. 简介 [slides](ch1.pdf) 
-2. 正则表达式 [slides](ch2.pdf) [slides](ch2-java.pdf)
+1. | 课程                         | 实践                     | 练习                           | 参考材料                                     |
+   | -------------------------- | ---------------------- | ---------------------------- | ---------------------------------------- |
+   | 1. 简介 [slides](ch1.pdf)    |                        |                              |                                          |
+   | 2. 正则表达式 [slides](ch2.pdf) | [slides](ch2-java.pdf) | [ch2-exercise](ch2-exercise) | <ul><li>[wiki](https://en.wikipedia.org/wiki/Regular_expression)</li><li>[Unicode](https://en.wikipedia.org/wiki/Unicode)</li></ul> |
+   |                            |                        |                              |                                          |
+   |                            |                        |                              |                                          |
+
+   ​
+
+2. ​
 
 
 
