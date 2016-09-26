@@ -31,7 +31,7 @@ published: true
 
 1. | 课程                         | 实践                           | 练习                           | 参考材料                                     |
    | -------------------------- | ---------------------------- | ---------------------------- | ---------------------------------------- |
-   | 1. 简介 [slides](ch1.pdf)    | [java简介](java简介)             |                              |                                          |
+   | 1. 简介 [slides](ch1.pdf)    | [java简介](Java简介)             |                              |                                          |
    | 2. 正则表达式 [slides](ch2.pdf) | [字符串与正则简介](Java中字符串及正则表达式简介) | [ch2-exercise](ch2-exercise) | <ul><li>[wiki](https://en.wikipedia.org/wiki/Regular_expression)</li><li>[Unicode](https://en.wikipedia.org/wiki/Unicode)</li></ul> |
    |                            |                              |                              |                                          |
    |                            |                              |                              |                                          |
