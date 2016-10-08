@@ -29,21 +29,31 @@ published: true
 
 ##内容
 
-1. | 课程                         | 实践                           | 练习                           | 参考材料                                     |
-   | -------------------------- | ---------------------------- | ---------------------------- | ---------------------------------------- |
-   | 1. 简介 [slides](ch1.pdf)    | [java简介](Java简介)             |                              |                                          |
-   | 2. 正则表达式 [slides](ch2.pdf) | [字符串与正则简介](Java中字符串及正则表达式简介) | [ch2-exercise](ch2-exercise) | <ul><li>[wiki](https://en.wikipedia.org/wiki/Regular_expression)</li><li>[Unicode](https://en.wikipedia.org/wiki/Unicode)</li></ul> |
-   |                            |                              |                              |                                          |
-   |                            |                              |                              |                                          |
+1.  简介 [slides](ch1.pdf)
 
-   ​
+2.  正则表达式 [slides](ch2.pdf) 
 
-2. ​
+     - 参考材料
+       - [wiki](https://en.wikipedia.org/wiki/Regular_expression)
+       - [Unicode](https://en.wikipedia.org/wiki/Unicode)
+     - 实践
+       - [java简介](Java简介)
+       - [字符串与正则简介](Java中字符串及正则表达式简介)
+     - 练习
+       - [ch2-exercise](ch2-exercise)
+
+3.  文本表示与相似度 [slides](ch3.pdf)
+     - 参考材料
+       - [主成分分析](http://ufldl.stanford.edu/wiki/index.php/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90)
+       - [PCA的数学原理](http://blog.codinglabs.org/articles/pca-tutorial.html)
+     - 项目作业
+       - 实现ESA、LSA算法
 
 
 
+## 数据集
 
-
+http://pan.baidu.com/s/1geGozC3
 
 ## 反馈意见
 
