@@ -46,7 +46,7 @@ published: true
      - 参考材料
        - [主成分分析](http://ufldl.stanford.edu/wiki/index.php/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90)
        - [PCA的数学原理](http://blog.codinglabs.org/articles/pca-tutorial.html)
-       - [SVD&LSA应用简例](Sample.md)
+       - [SVD&LSA应用简例](Sample)
      - 项目作业
        - 实现ESA、LSA算法
 
