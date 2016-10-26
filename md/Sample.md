@@ -75,7 +75,7 @@ $$
 
 这样可以通过新的词向量及文档向量对词或者文档进行分析，如聚类，相似度分析等等。
 
-![ss](../Github/TextProcessing/semanticpy/study/ss.png)
+![ss](ss.png)
 
 
 
