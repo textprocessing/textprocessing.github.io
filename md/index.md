@@ -49,7 +49,7 @@ published: true
        - 实现ESA、LSA算法
 4.   统计语言模型之N-Gram [slides](ch4.pdf)
      - 参考材料
-       - [统计语言模型](LM-model)
+       - [统计语言模型](LMmodel)
 
 
 
