@@ -50,6 +50,10 @@ published: true
 4.   统计语言模型之N-Gram [slides](ch4.pdf)
      - 参考材料
        - [统计语言模型](LMmodel)
+5.   文本存储与检索  [slides](ch5.pdf)
+6.   机器学习
+     -   参考材料
+         -   [Generalized Linear Classifiers in NLP](./gslt2007.pdf)
 
 
 
