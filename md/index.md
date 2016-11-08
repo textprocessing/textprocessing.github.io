@@ -59,9 +59,10 @@ published: true
 6.   机器学习
      -   参考材料
          -   [Generalized Linear Classifiers in NLP](./gslt2007.pdf)
+         -   [文本分类](TCintro)
 
-     - 项目作业
-       - [文本分类实践](TextClassifyPrac)
+     -   项目作业
+         - [文本分类实践](TextClassifyPrac)
 
 
 
