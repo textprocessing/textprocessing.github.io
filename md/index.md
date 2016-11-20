@@ -60,9 +60,11 @@ published: true
      -   参考材料
          -   [Generalized Linear Classifiers in NLP](./gslt2007.pdf)
          -   [文本分类](TCintro)
+         -   [序列标注和文本聚类](cluster)
 
      -   项目作业
          - [文本分类实践](TextClassifyPrac)
+         - [Fnlp文本分类指南](fnlptc)
 
 
 
