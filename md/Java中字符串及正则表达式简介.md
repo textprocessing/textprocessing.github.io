@@ -1,6 +1,14 @@
-[TOC]
 
-## Java中字符串及正则表达式简介
+
+# Java中字符串及正则表达式简介
+
+教师：[邱锡鹏](http://nlp.fudan.edu.cn/xpqiu)  微博：[@邱锡鹏](http://weibo.com/xpqiu)
+
+助教：施展、龚经经
+
+复旦大学 计算机学院 大数据学院
+
+[TOC]
 
 ### 1. 字符串（String）简介
 
