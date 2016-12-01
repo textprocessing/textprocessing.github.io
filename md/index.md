@@ -30,6 +30,7 @@ published: true
 ##内容
 
 1.   简介 [slides](ch1.pdf)
+
 2.   正则表达式 [slides](ch2.pdf) 
 
      - 参考材料
@@ -40,6 +41,7 @@ published: true
        - [字符串与正则简介](Java中字符串及正则表达式简介)
      - 练习
        - [ch2-exercise](ch2-exercise)
+
 3.   文本表示与相似度 [slides](ch3.pdf)
      - 参考材料
        - [主成分分析](http://ufldl.stanford.edu/wiki/index.php/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90)
@@ -47,28 +49,23 @@ published: true
        - [SVD&LSA应用简例](Sample)
      - 项目作业
        - 实现ESA、LSA算法
+
 4.   统计语言模型之N-Gram [slides](ch4.pdf)
      - 参考材料
        - [统计语言模型](LMmodel)
+
 5.   文本存储与检索  [slides](ch5.pdf)
+
 6.   机器学习
      -   参考材料
          -   [Generalized Linear Classifiers in NLP](./gslt2007.pdf)
          -   [文本分类](TCintro)
-         -   [序列标注和文本聚类](cluster)
 
      -   项目作业
          - [文本分类实践](TextClassifyPrac)
-         - [Fnlp文本分类指南](fnlptc)
-7.   深度学习
-     - 参考材料
-       - [神经网络概率语言模型](word2vec.pdf)
 
 
 
-## 数据集
-
-http://pan.baidu.com/s/1geGozC3
 
 ## 反馈意见
 
